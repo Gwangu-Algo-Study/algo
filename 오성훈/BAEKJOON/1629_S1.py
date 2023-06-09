@@ -1,3 +1,4 @@
+# 분할 정복
 def cal(a, b, c):
     if b == 1:
          return a % c
